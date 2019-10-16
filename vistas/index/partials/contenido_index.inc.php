@@ -69,45 +69,39 @@
 		<div class="col-md-4">
 			<div class="card">
 				<h5 class="card-header">
-					Card title
+					Marchadise 
 				</h5>
 				<div class="card-body">
-					<p class="card-text">
-						Card content
-					</p>
+					<img src="archivos/imagenes/card-index1.jpg" alt="">
 				</div>
 				<div class="card-footer">
-					Card footer
+					Productos de bandas
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4">
 			<div class="card">
 				<h5 class="card-header">
-					Card title
+					Contenido Musical
 				</h5>
 				<div class="card-body">
-					<p class="card-text">
-						Card content
-					</p>
+					<img src="archivos/imagenes/card-index2.jpg" alt="">
 				</div>
 				<div class="card-footer">
-					Card footer
+					encuentra música de cada banda
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4">
 			<div class="card">
 				<h5 class="card-header">
-					Card title
+					Redes Sociales
 				</h5>
 				<div class="card-body">
-					<p class="card-text">
-						Card content
-					</p>
+					<img src="archivos/imagenes/card-index3.jpg" alt="">
 				</div>
 				<div class="card-footer">
-					Card footer
+					conexion de entre banda y fan
 				</div>
 			</div>
 		</div>
